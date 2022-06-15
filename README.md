@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-Based-on-Residual-Network-and-BiLSTM
